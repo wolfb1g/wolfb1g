@@ -16,9 +16,9 @@ Now I'm focused on **securing AWS environments**: finding misconfigurations, fix
 
 ### 🧰 Skills
 
-**Cloud:** AWS (IAM, S3, EC2, VPC, KMS, CloudTrail, GuardDuty, Security Hub)
-**Security:** pentest (web, API, infra), vulnerability management, least privilege, CIS benchmarks
-**Automation:** Terraform, Python, Bash, AWS CLI, GitHub Actions
+- **Cloud:** AWS (IAM, S3, EC2, VPC, KMS, CloudTrail, GuardDuty, Security Hub)
+- **Security:** pentest (web, API, infra), vulnerability management, least privilege, CIS benchmarks
+- **Automation:** Terraform, Python, Bash, AWS CLI, GitHub Actions
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
