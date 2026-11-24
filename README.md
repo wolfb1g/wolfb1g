@@ -30,4 +30,5 @@ Now I'm focused on **securing AWS environments**: finding misconfigurations, fix
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-wolfsec-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wolfsec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yagosec-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagosec)
+
